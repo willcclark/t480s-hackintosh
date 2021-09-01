@@ -1,4 +1,4 @@
-﻿<h1 align="center"> Hackintosh the Thinkpad X1 Carbon 6th Generation </h1>
+<h1 align="center"> Hackintosh the Thinkpad X1 Carbon 6th Generation (or T480s) </h1>
 
 <p align="center">
 <a href="https://www.apple.com/macos/big-sur/">
@@ -27,11 +27,11 @@
 <a href="">
    <img src="https://img.shields.io/badge/Contributions-Welcome-orange.svg"> </a>
 </p>
-
 <p align="center">
 <a href="https://tylernguyen.github.io/x1c6-hackintosh/">
-  <img src="https://raw.githubusercontent.com/tylernguyen/x1c6-hackintosh/master/docs/assets/x1c6.png" alt="Thinkpad X1 Carbon 6th Gen" width="400">
+  <img src="https://raw.githubusercontent.com/willcclark/t480s-hackintosh/master/docs/assets/t480s.png" alt="Thinkpad T480s" width="400">
 </p>
+
 
 <p align="center">
 <a href="https://tylernguyen.github.io/x1c6-hackintosh/">
@@ -66,7 +66,7 @@ I consider the state of this project to be **very stable**. Everything works the
   - [zhtengw/EFI-for-X1C6-hackintosh](https://github.com/zhtengw/EFI-for-X1C6-hackintosh)   
 - t480-hackintosh repositories:
   - [EETagent/T480-OpenCore-Hackintosh](https://github.com/EETagent/T480-OpenCore-Hackintosh)
-Create a pull request if you like to be added, final decision at my discreation.
+  Create a pull request if you like to be added, final decision at my discreation.
 
 # Credits
 
